@@ -1,0 +1,13 @@
+{
+  "name": "Megatris",
+  "version": "1.0.0",
+  "description": "A rethought version of a classic game with more complicated shapes",
+  "main": "js/main.js",
+  "repository": "git@github.com:johnturner4004/Megatris.git",
+  "author": "John Turner",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "phaser": "^3.55.2"
+  }
+}
